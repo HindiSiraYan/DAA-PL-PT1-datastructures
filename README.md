@@ -13,6 +13,7 @@ To implemete the data structure, ‎an array is used together with an int variab
 Downside of this implementation aside from the fixed size is the fixed data type.
 
   ‎ 
+
 **DEMO:**
 https://asciinema.org/a/XKk6gmegRnCRZstZ0rRlGwFlN
 
