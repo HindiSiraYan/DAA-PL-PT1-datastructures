@@ -20,6 +20,7 @@ Downside of this implementation aside from the fixed size is the fixed data type
 **DEMO:**
 https://asciinema.org/a/XKk6gmegRnCRZstZ0rRlGwFlN
 
+[code](https://github.com/HindiSiraYan/DAA-PL-PT1-datastructures/blob/main/DatastrucStack.java)
 
 </details>
     
