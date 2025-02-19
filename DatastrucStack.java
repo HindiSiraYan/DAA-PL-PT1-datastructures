@@ -32,7 +32,6 @@ public class DatastrucStack {
                 return false;  
             }  
             else   {  
-
                 System.out.println("\nBullet fired: " + stack_arry[top--]);  
                 return true;  
             }  
